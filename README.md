@@ -2,14 +2,17 @@
 
 ## Overview and Origin
 
-* Name of company
+* *Name of company* * **Biofourmis**
 
-* When was the company incorporated?
+* *When was the company incorporated?* *
+* 2015, based in Boston
 
-* Who are the founders of the company?
+* *Who are the founders of the company?* *
+* Maulik Majmudar,Kuldeep Singh Rajput, and Mark Niu 
 
 * How did the idea for the company (or project) come about?
-
+* While completing his PhD in Singapore,company CEO, Kuldeep Singh Rajput dropped out to pursue AI technology
+  
 * How is the company funded? How much funding have they received?
 
 ## Business Activities
