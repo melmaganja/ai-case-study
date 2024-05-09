@@ -14,8 +14,7 @@
 
 ## Business Activities
 
-* *What specific problem is the company or project trying to solve?* *
-* The company is trying to bring hospital level care to patients in their own homes. This is implemented by combining AI programs and monitoring technology, in conjunction with FDA approved algorithms. In addition, Biofourmis helps people get involved in clinical trials by making user friendly tools and easy communication for participants. [^3]
+* *What specific problem is the company or project trying to solve?* * The company is trying to bring hospital level care to patients in their own homes. This is implemented by combining AI programs and monitoring technology, in conjunction with FDA approved algorithms. The company is able to initiate virtual visits, along with personal care plans to prevent rehospitalization.In addition, Biofourmis helps people get involved in clinical trials by making user friendly tools and easy communication for participants. [^3] 
 
 * *Who is the company's intended customer? Is there any information about the market size of this set of customers?* * The company is aiming to provide hospital level care to anyone who would like to seek medical attention reguardless of where they live. As per the company’s website, they have cared for 100,000 patients as of 2023 [^3]  
 
