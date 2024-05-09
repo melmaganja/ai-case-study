@@ -14,15 +14,14 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-* The company is trying to bring hospital level care to patients in their own homes. This is implemented by combining AI programs and monitoring technology, in conjunction with FDA approved algorithms. In addition, Biofourmis helps people get involved in clinical trials by making user friendly tools and easy communication for participants
+* *What specific problem is the company or project trying to solve?* *
+* The company is trying to bring hospital level care to patients in their own homes. This is implemented by combining AI programs and monitoring technology, in conjunction with FDA approved algorithms. In addition, Biofourmis helps people get involved in clinical trials by making user friendly tools and easy communication for participants. [^3]
 
-* *Who is the company's intended customer? Is there any information about the market size of this set of customers?* *The company is aiming to provide hospital level care to anyone who would like to seek medical attention reguardless of where they live. As per the company’s website, they have cared for 100,000 patients as of 2023 [^3]  
+* *Who is the company's intended customer? Is there any information about the market size of this set of customers?* * The company is aiming to provide hospital level care to anyone who would like to seek medical attention reguardless of where they live. As per the company’s website, they have cared for 100,000 patients as of 2023 [^3]  
 
+* *What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)* * Biofourmis uses apps and easy to use biosensors to track a patient’s vital signs, as well as other biomarkers. This wearable technology provides data that is interpreted by an AI system to immediately assess a patient’s status. This AI platform takes the information and presents it to a medical team. This information is presented to medical professionals in a user-friendly format. It is also uploaded to a patient dashboard. This information can track acuity level and clinical goals for the patient. This AI tool can also adjust the level of care for the patient based on the changing conditions. [^3]
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)* * Biofourmis uses several different technological aspects to build their AI system. The company uses an AI program called Biofourmis Biovitals. This is a system that monitors a patient’s physiological signs and compares it to their database. This information is then passed off to clinicians to make medical decisions. Along with the AI system, Biofourmis uses: BiovitalsHF, Rhythm Analytics, Biovitals Sentinel, Painfocus, Gaido and Biovitals Research. These are programs that the company uses in conjunction with the AI program. Those programs are monitoring software and cloud based software programs that can provide more data to the AI system.[^4] 
 
 ## Landscape
 
@@ -53,4 +52,5 @@
 * [^1] https://growjo.com/company/Biofourmis.
 * [^2] https://www.biofourmis.com/news-insights/biofourmis-receives-significant-growth-investment-from-general-atlantic-to-surpass-unicorn-status#:~:text=To%20date%2C%20Biofourmis%20has%20raised,Ventures%2C%20Sequoia%20Capital%20and%20EDBI.
 * [^3] https://www.biofourmis.com/platform
+* [^4] https://faimglobal.org/biofourmis/
 
