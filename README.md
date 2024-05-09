@@ -47,8 +47,7 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
-
-** References**
-[^1]https://growjo.com/company/Biofourmis. 
-[^2] https://www.biofourmis.com/news-insights/biofourmis-receives-significant-growth-investment-from-general-atlantic-to-surpass-unicorn-status#:~:text=To%20date%2C%20Biofourmis%20has%20raised,Ventures%2C%20Sequoia%20Capital%20and%20EDBI.
+* ** References**
+* [^1]https://growjo.com/company/Biofourmis.
+* [^2] https://www.biofourmis.com/news-insights/biofourmis-receives-significant-growth-investment-from-general-atlantic-to-surpass-unicorn-status#:~:text=To%20date%2C%20Biofourmis%20has%20raised,Ventures%2C%20Sequoia%20Capital%20and%20EDBI.
 
