@@ -27,10 +27,12 @@
 * *What field is the company in?* * Biotechnology
 
 * *What have been the major trends and innovations of this field over the last 5&ndash;10 years?* * Over the past ten years there has been many new innovations in healthcare. As of 2022, the United Stated Food and Drug Administration (FDA) approved 91 medical devices with AI abilities [^5]. These devices range from cardiac arrhythmia tracking in Apple Watches and AI programed features in radiology devices to better highlight critical images. 
-Advances in AI generated digital biomarkers have been used as an early detection for cancers and different cardiovascular diseases. AL has been used as a clinical decision support tool. This is very helpful to clinicians to be able to analyze historical data and determine a trend of the current date. Lastly, AI has been implemented in drug development. AI can use used to speed up the drug development process. For example, the medication * *Olumiant* * created by pharmaceutical company Eli Lilly used designed by AI [^5].
+Advances in AI generated digital biomarkers have been used as an early detection for cancers and different cardiovascular diseases. AL has been used as a clinical decision support tool. This is very helpful to clinicians to be able to analyze historical data and determine a trend of the current date. Lastly, AI has been implemented in drug development. AI can use used to speed up the drug development process. For example, the medication *Olumiant* created by pharmaceutical company Eli Lilly used designed by AI [^5].
 
+* *What are the other major companies in this field?* There are many new companies that are emerging in the healthcare field, the following are three successful ones. Butterfly Network is a company that designed a handheld medical image device that uses AI to make remote digital imagine possible.
+Augmedix is a company that designed an AI program that listens in a doctor- patient conversations, makes medical notes and transfers the medical note into the patient chart. 
+Artery is an AI healthcare company that uses AI to review radiology imaging and better detect health concerns [^6] 
 
-* What are the other major companies in this field?
 
 ## Results
 
@@ -55,5 +57,5 @@ Advances in AI generated digital biomarkers have been used as an early detection
 * [^3] https://www.biofourmis.com/platform
 * [^4] https://faimglobal.org/biofourmis/
 * [^5] https://insights.omnia-health.com/technology/top-5-ai-driven-medical-innovations-united-states.
-*
+* [^6] https://medicalfuturist.com/top-artificial-intelligence-companies-in-healthcare/
 
