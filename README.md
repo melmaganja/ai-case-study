@@ -47,12 +47,13 @@ Buformins has some notable partnerships, those partnerships include Mayo Clinic,
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)** If I were to make any recommendations, I would suggest hiring employees with a healthcare background. When I researched the top corporate members, I noticed that everyone was from a technical or financial background. There was only one member with a healthcare background.  
 
-Why do you think that offering this product or service would benefit the company?**
+**Why do you think that offering this product or service would benefit the company?** I believe that if you are trying to bring technology into healthcare, you need to have people on your team that know how to work with patients. There are so many gaps in the healthcare system that technology can fill. People with healthcare experience can bring new insights to the products, as well as help modify pre-existing ones. While researching, I noticed that other companies hire healthcare workers with technical experience. It is the best way to bring ideas forward from experienced healthcare professionals that could merge with new technological workings. 
 
-* What technologies would this additional product or service utilize?
+**What technologies would this additional product or service utilize?** Bringing more healthcare providers into this setting would help close the gap between products that work in a closed setting, and what works in a hospital setting. For example, Bioformis uses monitoring systems to assess patient’s vitals. That appears like a straightforward approach; however, this would require patients to understand how to use the technology. Which is quite limiting. Patients would have to be able to troubleshoot the monitoring system, they would have to be able to know what is normal or abnormal, and they would have to make sure that they device is properly applied. For example, in a clinical setting, the monitoring equipment can read a cardiac rhythm. However, a clinician can assess the patient status and know that the rhythm is incorrect. At this point the AI might not know that the device is applied incorrectly and would alert the network that a patient is having a cardiac event even though they are not. With the help of individuals with healthcare experience, different patient teaching approaches or adjustments to the technology can be applied due to clinician insights.
 
-* Why are these technologies appropriate for your solution?
-* 
+**Why are these technologies appropriate for your solution?** Having a healthcare provider on the AI team can bring more data forward that the AI system can utilize. For example, in terms of a monitoring device reading an incorrect cardiac rhythm. A clinician understands that they are many variables to the cardiac rhythm. There could be artifact, patient movement, or misplaced leads.  This information is vital when it comes to ensuring an accurate reading. Thus, having a clinician that could account for these factors could better provide a design team when they are building a product. 
+
+
 ## References
 * [^1] https://growjo.com/company/Biofourmis.
 * [^2] https://www.biofourmis.com/news-insights/biofourmis-receives-significant-growth-investment-from-general-atlantic-to-surpass-unicorn status#:~:text=To%20date%2C%20Biofourmis%20has%20raised,Ventures%2C%20Sequoia%20Capital%20and%20EDBI.
