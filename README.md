@@ -4,14 +4,13 @@
 
 * *Name of company* * **Biofourmis**
 
-* *When was the company incorporated?* *2015 in Singapore 
+* *When was the company incorporated?* * 2015 in Singapore 
 
-* *Who are the founders of the company?* *
-* Maulik Majmudar,Kuldeep Singh Rajput, and Mark Niu 
+* *Who are the founders of the company?* * Maulik Majmudar,Kuldeep Singh Rajput, and Mark Niu [^1]
 
 * *How did the idea for the company (or project) come about?* * While completing his PhD in Singapore,company CEO, Kuldeep Singh Rajput dropped out to pursue AI technology [^1]
   
-* How is the company funded? How much funding have they received?
+* *How is the company funded? How much funding have they received?* * As of 2022, Biofourmis has been funded $445 million through investors. Those investors include SoftBank Vision Fund 2, Openspace Ventures, Mass Mutual Ventures, Sequoia Capital and EDBI. In 2022, the company broke out of the unicorn status and into Series D investment with their partnership with General Atlantic [^2]
 
 ## Business Activities
 
@@ -51,4 +50,5 @@
 
 ** References**
 [^1]https://growjo.com/company/Biofourmis. 
+[^2] https://www.biofourmis.com/news-insights/biofourmis-receives-significant-growth-investment-from-general-atlantic-to-surpass-unicorn-status#:~:text=To%20date%2C%20Biofourmis%20has%20raised,Ventures%2C%20Sequoia%20Capital%20and%20EDBI.
 
