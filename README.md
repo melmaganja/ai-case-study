@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-**Name of company** **Biofourmis**
+**Name of company**: **Biofourmis**
 
 **when was the company incorporated?** 2015 in Singapore 
 
