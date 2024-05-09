@@ -36,9 +36,11 @@ Artery is an AI healthcare company that uses AI to review radiology imaging and 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* *What has been the business impact of this company so far?* Biofourmis received 300 million in funding through General Atlantic in 2022. In 2020 Biofournmis partnered with Brigham Women’s Hospital where they launched their remote patient monitoring system. In 2021, The company had their heart failure detection AI program BiovitalsHF approved by the FDA [^7]. Lastly, in as of February 2024, Biofournmis partnered with four pharamceditcal companies using their digital clinical trials program and their digital biomarkers technology [^8] 
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* *What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?* A metric for success in a company can be their revenue, Biofourmis’ revenue last year was 117.8 million. The company has been funded 463.6 million since it was established in 2015. The company currently holds 543 employees. There has been a drop in their employees since last year with 27% less staff [^1]. However, it is important to note that the company did grow substantially from 150 employees in 2020 to 500 in 2022. In addition, the company is valued at 1.3 billion as of 2023.
+Buformins has some notable partnerships, those partnerships include Mayo Clinic, Discovery, Lorettto and MediClinic to name a few. The company’s technology is currently monitoring almost a hundrend thousand patients and states that with its technology there has been a 70% chance of hospitalization post discharge [^9]. Thus, Buformins is a successful start-up company that is continuing to grow in the biotechnology industry
+
 
 * How is your company performing relative to competitors in the same field?
 
@@ -53,9 +55,11 @@ Artery is an AI healthcare company that uses AI to review radiology imaging and 
 * Why are these technologies appropriate for your solution?
 * ** References**
 * [^1] https://growjo.com/company/Biofourmis.
-* [^2] https://www.biofourmis.com/news-insights/biofourmis-receives-significant-growth-investment-from-general-atlantic-to-surpass-unicorn-status#:~:text=To%20date%2C%20Biofourmis%20has%20raised,Ventures%2C%20Sequoia%20Capital%20and%20EDBI.
+* [^2] https://www.biofourmis.com/news-insights/biofourmis-receives-significant-growth-investment-from-general-atlantic-to-surpass-unicorn status#:~:text=To%20date%2C%20Biofourmis%20has%20raised,Ventures%2C%20Sequoia%20Capital%20and%20EDBI.
 * [^3] https://www.biofourmis.com/platform
 * [^4] https://faimglobal.org/biofourmis/
 * [^5] https://insights.omnia-health.com/technology/top-5-ai-driven-medical-innovations-united-states.
 * [^6] https://medicalfuturist.com/top-artificial-intelligence-companies-in-healthcare/
-
+* [^7] https://www.emarketer.com/content/biofourmis-bags-300m-mold-itself-digital-health-market-leader
+* [^8] https://www.biofourmis.com/news-insights/biofourmis-secures-four-new-agreements-with-top-20-pharma-on-strength-of-platform-for-digital-clinical-trials-and-digital-biomarkers
+* [^9] https://startuptalky.com/biofourmis-success-story/
