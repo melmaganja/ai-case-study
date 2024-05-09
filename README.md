@@ -1,4 +1,4 @@
-# ai-case-study
+# AI-Case-Study
 
 ## Overview and Origin
 
