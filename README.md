@@ -24,9 +24,11 @@
 
 ## Landscape
 
-* What field is the company in?
+* *What field is the company in?* * Biotechnology
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* *What have been the major trends and innovations of this field over the last 5&ndash;10 years?* * Over the past ten years there has been many new innovations in healthcare. As of 2022, the United Stated Food and Drug Administration (FDA) approved 91 medical devices with AI abilities [^5]. These devices range from cardiac arrhythmia tracking in Apple Watches and AI programed features in radiology devices to better highlight critical images. 
+Advances in AI generated digital biomarkers have been used as an early detection for cancers and different cardiovascular diseases. AL has been used as a clinical decision support tool. This is very helpful to clinicians to be able to analyze historical data and determine a trend of the current date. Lastly, AI has been implemented in drug development. AI can use used to speed up the drug development process. For example, the medication * *Olumiant* * created by pharmaceutical company Eli Lilly used designed by AI [^5].
+
 
 * What are the other major companies in this field?
 
@@ -52,4 +54,6 @@
 * [^2] https://www.biofourmis.com/news-insights/biofourmis-receives-significant-growth-investment-from-general-atlantic-to-surpass-unicorn-status#:~:text=To%20date%2C%20Biofourmis%20has%20raised,Ventures%2C%20Sequoia%20Capital%20and%20EDBI.
 * [^3] https://www.biofourmis.com/platform
 * [^4] https://faimglobal.org/biofourmis/
+* [^5] https://insights.omnia-health.com/technology/top-5-ai-driven-medical-innovations-united-states.
+*
 
